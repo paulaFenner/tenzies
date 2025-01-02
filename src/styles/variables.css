@@ -1,0 +1,13 @@
+:root {
+  --font-main: 'Karla', sans-serif;
+
+  --color-bkg-black: #0b2434;
+  --color-bkg-grey: #f5f5f5;
+
+  --color-white: #ffffff;
+  --color-black: #2b283a;
+
+  --color-grey-dark: #4a4e74;
+  --color-accent-green: #59e391;
+  --color-accent-blue: #5035ff;
+}

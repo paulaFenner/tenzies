@@ -1,0 +1,19 @@
+@import url(./styles/variables.css);
+@import url(./styles/main.css);
+
+* {
+  box-sizing: border-box;
+}
+
+body,
+html {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font-main);
+  background-color: var(--color-bkg-black);
+  height: 100vh;
+  text-align: center;
+}
